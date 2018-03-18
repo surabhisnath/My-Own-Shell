@@ -1,0 +1,368 @@
+history
+exit
+history
+pwd
+hi
+exit
+history
+exit
+date
+date -R
+date -I
+date -p
+date k
+date -IR
+exit
+date
+date -p
+date pppp
+date -R
+date -I
+history
+exit
+cd l
+ls '
+rm q
+rm q
+rm test
+ls
+rm -v test2
+ls
+rm d
+rm -v d
+rm -vd d
+cd d
+ls
+rm one
+ls
+rm file
+rm two
+ls
+cd ..
+pwd
+rm d
+rm -d d
+ls
+history
+exit
+rm
+rm l
+exit
+ls
+cat test
+cat -E test
+cat -n test
+cat kk
+exit
+ls
+cat test
+cat -E test
+exit
+cat -E test
+cat test
+cat -n test
+cat -E test
+cat -nE test
+cat -En test
+exit
+cat -E test
+cat -n test
+cat h
+cat -p test
+history
+exit
+cat
+exit
+cat
+cat -p
+cat -E
+exit
+cat -nE ls
+ls
+mkdir a
+cat a
+exit
+cat a
+cat ls.o
+cat ls
+cat -p
+cat -E
+cat a
+cd a
+ls
+cd ..
+ls
+rm a
+rm -d a
+ls
+cat ls.c
+cat test
+exit
+cat test
+cat ls.c
+cat -E ls.c
+exit
+ls -E cat.c
+cat -E ls.c
+cat ls
+cat -z
+cat -nE test
+cat
+history
+exit
+ls
+rm -d a
+rm -d b
+ls
+mkdir a
+ls
+mkdir -m 777 b
+ls
+exit
+echo \\n
+exit
+ls
+cat historykeeper.c
+cat historykeeper.txt
+exit
+hi
+ls
+history
+cat ls.c
+cat -E ls.c
+exit
+ls
+cd ..
+cd /
+ls
+cd /home
+ls
+cd surabhi
+;s
+ls
+cd Desktop
+ls
+exit
+ls
+
+
+
+
+
+
+cat ls.c
+lat ls
+cat ls.c mkdir .c
+clear
+cat ls.c date.c
+exit
+ls
+ls -a
+ls -r
+exit
+date
+date -I
+date -R
+mkdir -v a
+ls
+rm a
+rm -d a
+ls
+mkdir a
+rm -i a
+exit
+ls
+rm -i a
+rm -v a
+rm -vd a
+ls
+ls v
+make
+exit
+ls v
+ls /m
+ls -f
+ls -f
+exit
+date qhfqo
+exit
+date -R
+date -I
+date g
+exit
+date -p
+date f
+exit
+pwd h
+pwd hhhhhhhh
+history jjjj
+echo ""
+cd g
+cd ..
+ls
+cd j
+echo "
+exit
+exit
+cd -
+exit
+cd
+cd -
+exit
+cd -
+exit
+cd -
+exit
+cd -
+exit
+cd -
+exit
+history
+history
+exit
+cd
+cd 
+pwd
+exit
+cd -
+exit
+cd
+exit
+cd
+exit
+cd
+exit
+cd -
+exit
+cd -
+cd ..
+cd -
+cd .
+cd..
+cd ..
+cd
+cd /
+cd
+cd /home
+cd ~
+exit
+cd
+cd -
+exit
+cd -
+exit
+cd -
+exit
+cd -
+exir
+exit
+cd -
+exit
+cd -
+exit
+cd -
+cd -
+cd -
+exit
+cd -
+exit
+cd -
+cd -
+exit
+cd -
+exit
+cd -
+cd -
+exit
+cd -
+exit
+cd -
+cd ..
+cd
+cd /
+cd .
+cd -
+cd -
+cd -
+cd /home
+cd -
+cd
+cd /
+cd -
+cd /home
+cd /
+cd -
+cd
+cd /home
+cd /home/surabhi
+cd Desktop/
+cd .
+cd ~
+cd /kkk
+exit
+cd -
+cd ..
+cd -
+ls
+ls -r
+date
+cat ls.c
+history
+exit
+ls
+ls -a
+ls -r
+ls -i
+ls /kkk
+date
+date -I
+date -R
+date -p
+date xyz
+date -IR
+ls
+cat ls.c
+cat -n ls.c
+cat -E ls.c
+cat
+cat -p
+ls
+cat 2016271
+mkdir a
+ls
+mkdir -v k
+ls
+mkdir -m 0777 x
+ls
+exit
+mkdir
+mkdir a
+rm a
+ls
+ls
+rm testtt.txt
+rm -d a
+ls
+rm -vd k
+rm a
+cd
+cd -
+cd ~
+ls
+cd 2016271
+cd ..
+cd -
+cd ..
+cd /lll
+exit
+cd -
+exit
+echo ho
+echo -n YYY
+echo -E jj
+echo ""
+echo "ll"
+echo "'
+history
+pwd
+exit
