@@ -11,3 +11,5 @@ Implemented my very own shell executing 5 internal and 5 extrernal commands, eac
 8) date
 9) rm
 10) mkdir
+
+Refer to Report.pdf for details
